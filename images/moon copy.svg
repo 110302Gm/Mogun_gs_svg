@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>SVG ICONS</title>
-        <link href="css/main.css" rel="stylesheet">        
-    </head>
-    <body>
-        <h1>SVG </h1>
-        <section class="icon-container">  
-        </section>
-        <header>
-            <h2>SVG</h2>
-        </header>
-        <section class="icon-container">
-            <h2 class="hidden">Icons</h2>
-				<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
@@ -108,30 +91,6 @@ H7azPITxw51ALkZv0N3oLnAUMP/Zyu0tngU9L3j/0N5P83UIk/iP9DLsR9447ibbNN2k70kQx2Nf
 PJP9D//w/8V/a1vZgYz+arIAAAAASUVORK5CYII=" transform="matrix(1 0 0 0.9733 90 60)">
 	</image>
 </g>
-  
-<ellipse transform="matrix(0.1509 -0.9885 0.9885 0.1509 -11.5177 153.3151)" class="st4" cx="83.5" cy="83.4" rx="76.9" ry="76.9"/>
-
-
-	<ellipse id="dottedstrokes" transform="ease" class="st5" cx="83.5" cy="83.4" rx="74.9" ry="74.9"/>
-
-</svg>             
-</div>
-<div>
-	<object data="images/moon copy.svg" type="image/svg+ml"></object>
-	
-</div>
-</section>
-
-
-
-            <footer>
-                <h2>In Class example #1</h2>
-            </footer>
-        </section>
-        <!-- link just above the closing body tag
-        this allows for the entire DOM tree to be built 
-		html
-
-       <script src="js/main.js"></script> 
-    </body>
-</html>
+<g id="Layer_2">
+</g>
+</svg>
